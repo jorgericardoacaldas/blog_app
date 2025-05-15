@@ -34,7 +34,7 @@ Um aplicativo de blog criado com .NET MAUI que consome dados da API (https://jso
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/AppBlog.git
+git clone https://github.com/jorgericardoacaldas/AppBlog.git
 cd AppBlog
 
 dotnet restore

@@ -8,7 +8,7 @@
     Title="app_blog">
 
     <ShellContent
-        Title="Home"
+        Title="App Blog"
         ContentTemplate="{DataTemplate local:FeedPage}"
         Route="FeedPage" />
 
