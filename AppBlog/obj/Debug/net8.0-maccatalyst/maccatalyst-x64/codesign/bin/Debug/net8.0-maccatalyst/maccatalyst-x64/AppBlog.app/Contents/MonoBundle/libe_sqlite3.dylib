@@ -1,1 +1,1 @@
--v --force --timestamp=none --sign - /Users/jorgericardo/Documents/projetos/blog_app/AppBlog/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/AppBlog.app/Contents/MonoBundle/libe_sqlite3.dylib
+-v --force --timestamp=none --sign - /Users/jorgericardo/Documents/projetos/blog/blog_app/AppBlog/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/AppBlog.app/Contents/MonoBundle/libe_sqlite3.dylib

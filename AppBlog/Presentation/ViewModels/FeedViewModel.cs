@@ -1,5 +1,5 @@
 
-using AppBlog.Application.UseCases;
+using AppBlog.Cases.UseCases;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 

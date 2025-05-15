@@ -1,4 +1,4 @@
-using AppBlog.Application.UseCases;
+using AppBlog.Cases.UseCases;
 using AppBlog.Infrastructure.Data;
 using AppBlog.Infrastructure.Repositories;
 using AppBlog.Infrastructure.Services;
@@ -8,9 +8,9 @@ namespace AppBlog.Presentation.Views;
 
 public partial class FeedPage : ContentPage
 {
-    public FeedPage()
+    public FeedPage(FeedViewModel viewModel)
     {
         InitializeComponent();
-
+        BindingContext = viewModel;
     }
 }

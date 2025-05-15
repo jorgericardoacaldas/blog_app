@@ -12,6 +12,10 @@
 		<data>
 		MGCyFg6zxs4xHJe+217aXydLlVQ=
 		</data>
+		<key>Resources/MauiInfo.plist</key>
+		<data>
+		iEtuUGCV6JM3gxS/pO33swhmpp8=
+		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
 		oowkf1sL6T19nanXUObgmuayWqM=
@@ -47,14 +51,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mIOFPi6irBEQzHxWhHTaa97SQsAG2FBoluOhks7/RHk=
+			XkN1vYDyYOJpN1sraghqZcV3fnxv5hZ1bM2ES3tF8Hs=
 			</data>
 		</dict>
 		<key>MonoBundle/AppBlog.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QPs3u1vqMqRVGaAarpxa+jrLnnc0cugUDnSOGEFaJeU=
+			iY8WE8YA4SrZlMvgTK+GPUXDPDumNA+Ba8hYXX4bJFI=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1658,6 +1662,13 @@
 			<key>hash2</key>
 			<data>
 			/wBemLms50+6O3LTPUJBU1BJ0KJgPufE2yl17DkdsAY=
+			</data>
+		</dict>
+		<key>Resources/MauiInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tx0KXqEC+DvcCGyogQTEQWHcCWJYYqH24NtPwhpQEjo=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>

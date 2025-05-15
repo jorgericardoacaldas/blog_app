@@ -1,5 +1,6 @@
 ﻿using AppBlog;
-using AppBlog.Application.UseCases;
+using Microsoft.Extensions.DependencyInjection;
+using AppBlog.Cases.UseCases;
 using AppBlog.Domain.Interfaces;
 using AppBlog.Infrastructure.Data;
 using AppBlog.Infrastructure.Repositories;
@@ -31,6 +32,11 @@ public static class MauiProgram
         builder.Services.AddSingleton<GetPostsUseCase>();
         builder.Services.AddSingleton<FeedViewModel>();
         builder.Services.AddSingleton<FeedPage>();
+        builder.Services.AddHttpClient<ApiService>(client =>
+{
+    client.BaseAddress = new Uri("https://jsonplaceholder.typicode.com");
+});
+
 
         return builder.Build();
     }

@@ -21,6 +21,7 @@ public class PostRepository : IPostRepository
     {
         try
         {
+            
             var posts = await _api.GetPostsAsync();
             await _db.InsertPostsAsync(posts);
             return posts;

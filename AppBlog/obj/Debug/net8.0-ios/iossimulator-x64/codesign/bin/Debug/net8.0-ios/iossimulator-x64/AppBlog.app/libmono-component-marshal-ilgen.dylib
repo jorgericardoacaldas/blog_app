@@ -1,1 +1,1 @@
--v --force --timestamp=none --sign - /Users/jorgericardo/Documents/projetos/blog_app/AppBlog/bin/Debug/net8.0-ios/iossimulator-x64/AppBlog.app/libmono-component-marshal-ilgen.dylib
+-v --force --timestamp=none --sign - /Users/jorgericardo/Documents/projetos/blog/blog_app/AppBlog/bin/Debug/net8.0-ios/iossimulator-x64/AppBlog.app/libmono-component-marshal-ilgen.dylib

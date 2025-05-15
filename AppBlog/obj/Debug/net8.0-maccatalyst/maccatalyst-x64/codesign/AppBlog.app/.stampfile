@@ -1,1 +1,1 @@
--v --force --timestamp=none --sign - --entitlements /Users/jorgericardo/Documents/projetos/blog_app/AppBlog/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Entitlements.xcent /Users/jorgericardo/Documents/projetos/blog_app/AppBlog/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/AppBlog.app
+-v --force --timestamp=none --sign - --entitlements /Users/jorgericardo/Documents/projetos/blog/blog_app/AppBlog/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Entitlements.xcent /Users/jorgericardo/Documents/projetos/blog/blog_app/AppBlog/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/AppBlog.app
